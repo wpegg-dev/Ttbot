@@ -20,7 +20,7 @@ bobeActions = [
   "Playing with Mimi",
   "Doing the bad things",
   "Painting her nails",
-  "Brushing her hail",
+  "Brushing her hair",
   "Getting a pedicure",
   "Getting a makeover"
 ]
